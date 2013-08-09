@@ -1,0 +1,24 @@
+{
+  "author": "JP Bochi",
+  "name": "mocha-async",
+  "version": "0.0.0",
+  "description": "Extensions to mocha async tests",
+  "main": "mocha-async.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jpbochi/mocha-async.git"
+  },
+  "keywords": [
+    "mocha",
+    "async",
+    "phantom",
+    "browser",
+    "test"
+  ],
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  }
+}
